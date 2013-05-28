@@ -1,0 +1,16 @@
+此版本完成了基本的语法识别包括
+	set
+	parse
+	if/elseif/else
+	foreach
+	array
+	map
+	...
+完成了基本的语法渲染包括
+	set
+	if/elseif/else
+	foreach (80%),ignore map render
+	map
+接下来将完成
+	语法：index,attr,method of reference
+	渲染：parse

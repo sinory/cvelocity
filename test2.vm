@@ -1,0 +1,27 @@
+$wer
+
+#foreach($a in $as)
+
+#foreach($b in $bs)
+$werwerwe
+$ewrwer
+#end
+
+$werwerwe
+$ewrwer
+#end
+
+#if(45 > 67)
+wee
+#else
+    #if(65>90)
+        erwer
+    #elseif(67 > 90)
+        sdfsd12123
+    #elseif(67 > 90)
+        qwq w   q
+    #else
+        erwerwe
+    #end
+#end
+wewqe
